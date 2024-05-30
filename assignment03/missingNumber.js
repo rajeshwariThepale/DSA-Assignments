@@ -14,7 +14,7 @@ function missingNumber(array) {
 };
 
 // to print the missing number
-const array=[1,2,4,5,6,7];
+const array=[1,2,3,5,6,7];
 const result = missingNumber(array);
 
 console.log(result);
